@@ -1,3 +1,1 @@
-linux-x86_64/mkl/libmkl_sycl.a filter=lfs diff=lfs merge=lfs -text
-linux-x86_64/mkl/libmkl_tbb_thread.a filter=lfs diff=lfs merge=lfs -text
-linux-x86_64/mkl/libmkl_core.a filter=lfs diff=lfs merge=lfs -text
+*libmkl* filter=lfs diff=lfs merge=lfs -text
